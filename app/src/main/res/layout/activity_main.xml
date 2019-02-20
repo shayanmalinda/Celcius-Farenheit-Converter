@@ -18,6 +18,7 @@
             android:orientation="vertical"
             android:layout_weight="1">
 
+
             <TextView
                 android:id="@+id/textView"
                 android:layout_width="match_parent"
@@ -108,8 +109,21 @@
                 android:paddingBottom="15dp"
                 android:text="@string/convert"
                 android:textColor="@color/colorAccent"
+                android:textAllCaps="false"
+                android:textSize="15dp" />
 
-                android:textSize="20dp" />
+            <Button
+                android:id="@+id/button2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:backgroundTint="@color/colorPrimary"
+                android:onClick="convert2"
+                android:paddingTop="15dp"
+                android:paddingBottom="15dp"
+                android:text="@string/convert2"
+                android:textColor="@color/colorAccent"
+                android:textAllCaps="false"
+                android:textSize="15dp" />
 
         </LinearLayout>
 
