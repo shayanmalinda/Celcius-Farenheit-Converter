@@ -1,8 +1,8 @@
 <resources>
     <string name="app_name">Cool Converter</string>
-    <string name="title">Celcius vs Farenheite</string>
-    <string name="celcius">Celcius (°C)</string>
-    <string name="farenheit">Farenheite (°F)</string>
-    <string name="convert">Celcius(°C) to Farenheite(°F)</string>
-    <string name="convert2">Farenheite(°F) to Celcius(°C)</string>
+    <string name="title">Celsius vs Fahrenheit</string>
+    <string name="celcius">Celsius (°C)</string>
+    <string name="farenheit">Fahrenheit (°F)</string>
+    <string name="convert">Celsius(°C) to Fahrenheit(°F)</string>
+    <string name="convert2">Fahrenheit(°F) to Celsius(°C)</string>
 </resources>
