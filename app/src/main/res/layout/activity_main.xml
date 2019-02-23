@@ -55,9 +55,9 @@
                 android:ems="10"
                 android:enabled="true"
                 android:inputType="number"
-                android:textCursorDrawable="@color/colorPrimaryDark"
                 android:textSize="20dp"
                 android:textColor="@color/colorPrimary"
+                android:textCursorDrawable="@drawable/color_cursor"
                  />
 
         </LinearLayout>
@@ -86,9 +86,9 @@
                 android:ems="10"
                 android:enabled="true"
                 android:inputType="number"
-                android:textCursorDrawable="@color/colorPrimaryDark"
                 android:textSize="20dp"
                 android:textColor="@color/colorPrimary"
+                android:textCursorDrawable="@drawable/color_cursor"
                 />
 
         </LinearLayout>
